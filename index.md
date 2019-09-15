@@ -1,4 +1,5 @@
-## Welcome to jhgfhrjfyjkghjg Pages
+## Welcome to Arman McLean's Homepage
+description: This is where my Projects for this semster will be
 
 You can use the [editor on GitHub](https://github.com/arman154/arman154.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
