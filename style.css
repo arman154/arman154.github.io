@@ -21,13 +21,8 @@ body {
 section {
     align-items: center; 
     display: flex; 
-    height: 100vh;
+    flex-flow: colum wrap;
     justify-content: center;
     text-align: center;
     width: 100vw; 
-}
-
-section p {
-    display: none;
-
 }
