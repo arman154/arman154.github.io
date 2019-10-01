@@ -11,6 +11,23 @@ header {
     }
 }
 
+body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100%
+}
+
 section {
-    text-align: center; 
+    align-items: center; 
+    display: flex; 
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    width: 100vw; 
+}
+
+section p {
+    display: none;
+
 }
