@@ -1,0 +1,12 @@
+header {
+    .button {
+        background: #eee;
+        border: 1px solid #333;
+        border-radius: 3px;
+        color: #333;
+        display: block;
+        padding: 1rem 0.5rem;
+        text-align: center; 
+        text-decoration; none
+    }
+}
